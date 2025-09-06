@@ -1,0 +1,1 @@
+This is the code files that i wrote while understanding the concept of TypeScript using the Video lecture and reading the official Doc. I have divided the topics into several files, i hope this can help you to understand the typescript.
